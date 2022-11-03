@@ -1,2 +1,5 @@
 # wav data
 data/*
+
+# env
+test.env
